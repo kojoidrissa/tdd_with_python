@@ -1,1 +1,1 @@
-this WAS the tdd repo. I've moved it to `superlists`
+deprecated repo from http://chimera.labs.oreilly.com/books/1234000000754
