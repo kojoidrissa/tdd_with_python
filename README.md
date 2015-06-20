@@ -1,1 +1,1 @@
-this WAS the tdd repo, now it's superlists
+this WAS the tdd repo. I've moved it to `superlists`
